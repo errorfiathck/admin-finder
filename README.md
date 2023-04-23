@@ -3,7 +3,7 @@ u can finde admin panel`s with brutefurceing useing this python script
 
 
 ------------------------------------------------------------
-gti clone https://github.com/errorfiathck/admin-finder.git |                 
+git clone https://github.com/errorfiathck/admin-finder.git |                 
 ------------------------------------------------------------                               
 
                                          ____________       _____ 
